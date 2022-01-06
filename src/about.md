@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is me.
+title: From Us. To Us.
 ---
 
-She/her. A software person. Singapore.
+Coco and mumble
